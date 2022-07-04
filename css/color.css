@@ -1,0 +1,38 @@
+.text-white {
+    color: #ffffff;
+}
+
+.text-black {
+    color: #000000;
+}
+
+.text-gray {
+    color: rgb(131, 112, 112);
+}
+
+.text-cyan {
+    color: rgb(38, 144, 212);
+}
+
+.bg-white {
+    background-color: #ffffff;
+}
+
+.bg-black {
+    background-color: #000000;
+}
+
+.bg-gray {
+    background-color: #f5f5f5;
+}
+.bg-cyan {
+    background-color: rgb(38, 144, 212);
+}
+
+.bg-dark-gray {
+    background-color: #ebebeb;
+}
+
+.bg-red {
+    background-color: #a61a3d;
+}
